@@ -42,7 +42,7 @@ def drow_the_lines(img, lines):
         return img    
     return img
 ##################################################################################################################
-# image1 = cv2.VideoCapture('./datas/videos/roadway_01.mp4')
+# image1 = cv2.VideoCapture('./videos/roadway_01.mp4')
 image1 = cv2.VideoCapture(best.url)
 image1.set(cv2.CAP_PROP_FRAME_WIDTH , 1280)
 image1.set(cv2.CAP_PROP_FRAME_HEIGHT , 720)
