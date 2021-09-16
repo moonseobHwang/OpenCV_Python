@@ -12,7 +12,7 @@ https://youtu.be/-Tm4H4CrKT0?t=58
 * Matplotlib
 * Pafy
 
-## Test Result
+## Image of test results
 ### Original image
 <img src="https://github.com/moonseobHwang/OpenCV_Python/blob/main/Github_img/Original_image.JPG" width="480" alt="Combined Image" />
 
