@@ -15,7 +15,7 @@ https://youtu.be/-Tm4H4CrKT0?t=58
 ## Test Result
 * Original image
 <img src="https://github.com/moonseobHwang/OpenCV_Python/blob/main/Github_img/Original_image.JPG" width="480" alt="Combined Image" />
-* Finding image
+* Detection image
 <img src="https://github.com/moonseobHwang/OpenCV_Python/blob/main/Github_img/DrawLineimMyWay.JPG" width="480" alt="Combined Image" />
-* Processing image
+* image Processing
 <img src="https://github.com/moonseobHwang/OpenCV_Python/blob/main/Github_img/cropped_image1.JPG" width="480" alt="Combined Image" />
